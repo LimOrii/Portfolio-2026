@@ -1,0 +1,19 @@
+# 🌟 Portfolio 2026 - Daniel Vargas
+
+Welcome to my personal portfolio for **Industrial Design & Systems Engineering**.  
+This repository showcases projects, documents, and visual resources that reflect my academic background and professional experience.
+
+## 📑 Repository Structure
+- **portafolio 2026.html** → Main portfolio page.
+- **imagenes/** → Folder with images (logos, screenshots, illustrations).
+- **pdf/** → Project documents and presentations:
+  - `AntroTech.pdf`
+  - `PLASMURRRRR.pdf`
+  - `POCHI Presentation slides.pdf`
+  - `PRACTICA PROYECTUAL VI.pdf`
+  - `Poster_ALTAIR.pdf`
+
+## 🚀 How to View the Portfolio
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/LimOrii/Portfolio-2026.git
